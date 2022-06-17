@@ -1,0 +1,1427 @@
+patients:
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_2_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_2/01_G_01_R_2_ch1_01
+    video_name: R_2_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000002/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_2_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_2/01_G_01_R_2_ch1_03
+    video_name: R_2_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000002/ch1_video_03.mp4
+  patient_no: R_2
+  patient_video:
+  - R_2_ch1_01
+  - R_2_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_6_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_6/01_G_01_R_6_ch1_01
+    video_name: R_6_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000006/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_6_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_6/01_G_01_R_6_ch1_03
+    video_name: R_6_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000006/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_6_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_6/01_G_01_R_6_ch1_05
+    video_name: R_6_ch1_05
+    video_path: /data1/HuToM/Video_Robot_cordname/R000006/ch1_video_05.mp4
+  patient_no: R_6
+  patient_video:
+  - R_6_ch1_01
+  - R_6_ch1_03
+  - R_6_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_13_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_13/01_G_01_R_13_ch1_01
+    video_name: R_13_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000013/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_13_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_13/01_G_01_R_13_ch1_03
+    video_name: R_13_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000013/ch1_video_03.mp4
+  patient_no: R_13
+  patient_video:
+  - R_13_ch1_01
+  - R_13_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_74_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_74/01_G_01_R_74_ch1_01
+    video_name: R_74_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000074/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_74_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_74/01_G_01_R_74_ch1_03
+    video_name: R_74_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000074/ch1_video_03.mp4
+  patient_no: R_74
+  patient_video:
+  - R_74_ch1_01
+  - R_74_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_100_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_100/01_G_01_R_100_ch1_01
+    video_name: R_100_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000100/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_100_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_100/01_G_01_R_100_ch1_03
+    video_name: R_100_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000100/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_100_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_100/01_G_01_R_100_ch1_05
+    video_name: R_100_ch1_05
+    video_path: /data1/HuToM/Video_Robot_cordname/R000100/ch1_video_05.mp4
+  patient_no: R_100
+  patient_video:
+  - R_100_ch1_01
+  - R_100_ch1_03
+  - R_100_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_202_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_202/01_G_01_R_202_ch1_01
+    video_name: R_202_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000202/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_202_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_202/01_G_01_R_202_ch1_03
+    video_name: R_202_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000202/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_202_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_202/01_G_01_R_202_ch1_05
+    video_name: R_202_ch1_05
+    video_path: /data1/HuToM/Video_Robot_cordname/R000202/ch1_video_05.mp4
+  patient_no: R_202
+  patient_video:
+  - R_202_ch1_01
+  - R_202_ch1_03
+  - R_202_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_301_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_301/01_G_01_R_301_ch1_01
+    video_name: R_301_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000301/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_301_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_301/01_G_01_R_301_ch1_04
+    video_name: R_301_ch1_04
+    video_path: /data1/HuToM/Video_Robot_cordname/R000301/ch1_video_04.mp4
+  patient_no: R_301
+  patient_video:
+  - R_301_ch1_01
+  - R_301_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_302_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_302/01_G_01_R_302_ch1_01
+    video_name: R_302_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000302/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_302_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_302/01_G_01_R_302_ch1_04
+    video_name: R_302_ch1_04
+    video_path: /data1/HuToM/Video_Robot_cordname/R000302/ch1_video_04.mp4
+  patient_no: R_302
+  patient_video:
+  - R_302_ch1_01
+  - R_302_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_311_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_311/01_G_01_R_311_ch1_01
+    video_name: R_311_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000311/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_311_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_311/01_G_01_R_311_ch1_03
+    video_name: R_311_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000311/ch1_video_03.mp4
+  patient_no: R_311
+  patient_video:
+  - R_311_ch1_01
+  - R_311_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_312_ch1_02_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_312/01_G_01_R_312_ch1_02
+    video_name: R_312_ch1_02
+    video_path: /data2/Video/Robot/Dataset2_60case/R000312/ch1_video_02.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_312_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_312/01_G_01_R_312_ch1_03
+    video_name: R_312_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000312/ch1_video_03.mp4
+  patient_no: R_312
+  patient_video:
+  - R_312_ch1_02
+  - R_312_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_313_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_313/01_G_01_R_313_ch1_01
+    video_name: R_313_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000313/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_313_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_313/01_G_01_R_313_ch1_03
+    video_name: R_313_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000313/ch1_video_03.mp4
+  patient_no: R_313
+  patient_video:
+  - R_313_ch1_01
+  - R_313_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_336_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_336/01_G_01_R_336_ch1_01
+    video_name: R_336_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000336/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_336_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_336/01_G_01_R_336_ch1_04
+    video_name: R_336_ch1_04
+    video_path: /data2/Video/Robot/Dataset2_60case/R000336/ch1_video_04.mp4
+  patient_no: R_336
+  patient_video:
+  - R_336_ch1_01
+  - R_336_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_362_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_362/01_G_01_R_362_ch1_01
+    video_name: R_362_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000362/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_362_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_362/01_G_01_R_362_ch1_03
+    video_name: R_362_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000362/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_362_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_362/01_G_01_R_362_ch1_05
+    video_name: R_362_ch1_05
+    video_path: /data2/Video/Robot/Dataset2_60case/R000362/ch1_video_05.mp4
+  patient_no: R_362
+  patient_video:
+  - R_362_ch1_01
+  - R_362_ch1_03
+  - R_362_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_363_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_363/01_G_01_R_363_ch1_01
+    video_name: R_363_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000363/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_363_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_363/01_G_01_R_363_ch1_03
+    video_name: R_363_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000363/ch1_video_03.mp4
+  patient_no: R_363
+  patient_video:
+  - R_363_ch1_01
+  - R_363_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_386_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_386/01_G_01_R_386_ch1_01
+    video_name: R_386_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000386/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_386_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_386/01_G_01_R_386_ch1_03
+    video_name: R_386_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000386/ch1_video_03.mp4
+  patient_no: R_386
+  patient_video:
+  - R_386_ch1_01
+  - R_386_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_405_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_405/01_G_01_R_405_ch1_01
+    video_name: R_405_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000405/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_405_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_405/01_G_01_R_405_ch1_03
+    video_name: R_405_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000405/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_405_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_405/01_G_01_R_405_ch1_05
+    video_name: R_405_ch1_05
+    video_path: /data2/Video/Robot/Dataset2_60case/R000405/ch1_video_05.mp4
+  patient_no: R_405
+  patient_video:
+  - R_405_ch1_01
+  - R_405_ch1_03
+  - R_405_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_418_ch1_02_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_418/01_G_01_R_418_ch1_02
+    video_name: R_418_ch1_02
+    video_path: /data2/Video/Robot/Dataset2_60case/R000418/ch1_video_02.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_418_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_418/01_G_01_R_418_ch1_04
+    video_name: R_418_ch1_04
+    video_path: /data2/Video/Robot/Dataset2_60case/R000418/ch1_video_04.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_418_ch1_06_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_418/01_G_01_R_418_ch1_06
+    video_name: R_418_ch1_06
+    video_path: /data2/Video/Robot/Dataset2_60case/R000418/ch1_video_06.mp4
+  patient_no: R_418
+  patient_video:
+  - R_418_ch1_02
+  - R_418_ch1_04
+  - R_418_ch1_06
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_423_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_423/01_G_01_R_423_ch1_01
+    video_name: R_423_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000423/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_423_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_423/01_G_01_R_423_ch1_03
+    video_name: R_423_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000423/ch1_video_03.mp4
+  patient_no: R_423
+  patient_video:
+  - R_423_ch1_01
+  - R_423_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_424_ch2_02_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_424/01_G_01_R_424_ch2_02
+    video_name: R_424_ch2_02
+    video_path: /data2/Video/Robot/Dataset2_60case/R000424/ch2_video_02.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_424_ch2_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_424/01_G_01_R_424_ch2_04
+    video_name: R_424_ch2_04
+    video_path: /data2/Video/Robot/Dataset2_60case/R000424/ch2_video_04.mp4
+  patient_no: R_424
+  patient_video:
+  - R_424_ch2_02
+  - R_424_ch2_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_526_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_526/01_G_01_R_526_ch1_01
+    video_name: R_526_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000526/ch1_video_01.mp4
+  patient_no: R_526
+  patient_video:
+  - R_526_ch1_01
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_1_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_1/01_G_01_R_1_ch1_01
+    video_name: R_1_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000001/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_1_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_1/01_G_01_R_1_ch1_03
+    video_name: R_1_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000001/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_1_ch1_06_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_1/01_G_01_R_1_ch1_06
+    video_name: R_1_ch1_06
+    video_path: /data1/HuToM/Video_Robot_cordname/R000001/ch1_video_06.mp4
+  patient_no: R_1
+  patient_video:
+  - R_1_ch1_01
+  - R_1_ch1_03
+  - R_1_ch1_06
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_17_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_17/01_G_01_R_17_ch1_01
+    video_name: R_17_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000017/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_17_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_17/01_G_01_R_17_ch1_04
+    video_name: R_17_ch1_04
+    video_path: /data1/HuToM/Video_Robot_cordname/R000017/ch1_video_04.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_17_ch1_06_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_17/01_G_01_R_17_ch1_06
+    video_name: R_17_ch1_06
+    video_path: /data1/HuToM/Video_Robot_cordname/R000017/ch1_video_06.mp4
+  patient_no: R_17
+  patient_video:
+  - R_17_ch1_01
+  - R_17_ch1_04
+  - R_17_ch1_06
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_22_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_22/01_G_01_R_22_ch1_01
+    video_name: R_22_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000022/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_22_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_22/01_G_01_R_22_ch1_03
+    video_name: R_22_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000022/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_22_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_22/01_G_01_R_22_ch1_05
+    video_name: R_22_ch1_05
+    video_path: /data1/HuToM/Video_Robot_cordname/R000022/ch1_video_05.mp4
+  patient_no: R_22
+  patient_video:
+  - R_22_ch1_01
+  - R_22_ch1_03
+  - R_22_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_56_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_56/01_G_01_R_56_ch1_01
+    video_name: R_56_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000056/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_56_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_56/01_G_01_R_56_ch1_03
+    video_name: R_56_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000056/ch1_video_03.mp4
+  patient_no: R_56
+  patient_video:
+  - R_56_ch1_01
+  - R_56_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_116_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_116/01_G_01_R_116_ch1_01
+    video_name: R_116_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000116/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_116_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_116/01_G_01_R_116_ch1_03
+    video_name: R_116_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000116/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_116_ch1_06_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_116/01_G_01_R_116_ch1_06
+    video_name: R_116_ch1_06
+    video_path: /data1/HuToM/Video_Robot_cordname/R000116/ch1_video_06.mp4
+  patient_no: R_116
+  patient_video:
+  - R_116_ch1_01
+  - R_116_ch1_03
+  - R_116_ch1_06
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_206_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_206/01_G_01_R_206_ch1_01
+    video_name: R_206_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000206/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_206_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_206/01_G_01_R_206_ch1_03
+    video_name: R_206_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000206/ch1_video_03.mp4
+  patient_no: R_206
+  patient_video:
+  - R_206_ch1_01
+  - R_206_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_208_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_208/01_G_01_R_208_ch1_01
+    video_name: R_208_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000208/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_208_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_208/01_G_01_R_208_ch1_03
+    video_name: R_208_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000208/ch1_video_03.mp4
+  patient_no: R_208
+  patient_video:
+  - R_208_ch1_01
+  - R_208_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_209_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_209/01_G_01_R_209_ch1_01
+    video_name: R_209_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000209/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_209_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_209/01_G_01_R_209_ch1_03
+    video_name: R_209_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000209/ch1_video_03.mp4
+  patient_no: R_209
+  patient_video:
+  - R_209_ch1_01
+  - R_209_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_303_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_303/01_G_01_R_303_ch1_01
+    video_name: R_303_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000303/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_303_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_303/01_G_01_R_303_ch1_04
+    video_name: R_303_ch1_04
+    video_path: /data1/HuToM/Video_Robot_cordname/R000303/ch1_video_04.mp4
+  patient_no: R_303
+  patient_video:
+  - R_303_ch1_01
+  - R_303_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_321_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_321/01_G_01_R_321_ch1_01
+    video_name: R_321_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000321/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_321_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_321/01_G_01_R_321_ch1_03
+    video_name: R_321_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000321/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_321_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_321/01_G_01_R_321_ch1_05
+    video_name: R_321_ch1_05
+    video_path: /data2/Video/Robot/Dataset2_60case/R000321/ch1_video_05.mp4
+  patient_no: R_321
+  patient_video:
+  - R_321_ch1_01
+  - R_321_ch1_03
+  - R_321_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_338_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_338/01_G_01_R_338_ch1_01
+    video_name: R_338_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000338/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_338_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_338/01_G_01_R_338_ch1_03
+    video_name: R_338_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000338/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_338_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_338/01_G_01_R_338_ch1_05
+    video_name: R_338_ch1_05
+    video_path: /data2/Video/Robot/Dataset2_60case/R000338/ch1_video_05.mp4
+  patient_no: R_338
+  patient_video:
+  - R_338_ch1_01
+  - R_338_ch1_03
+  - R_338_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_345_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_345/01_G_01_R_345_ch1_01
+    video_name: R_345_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000345/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_345_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_345/01_G_01_R_345_ch1_04
+    video_name: R_345_ch1_04
+    video_path: /data2/Video/Robot/Dataset2_60case/R000345/ch1_video_04.mp4
+  patient_no: R_345
+  patient_video:
+  - R_345_ch1_01
+  - R_345_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_349_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_349/01_G_01_R_349_ch1_01
+    video_name: R_349_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000349/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_349_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_349/01_G_01_R_349_ch1_04
+    video_name: R_349_ch1_04
+    video_path: /data2/Video/Robot/Dataset2_60case/R000349/ch1_video_04.mp4
+  patient_no: R_349
+  patient_video:
+  - R_349_ch1_01
+  - R_349_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_369_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_369/01_G_01_R_369_ch1_01
+    video_name: R_369_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000369/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_369_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_369/01_G_01_R_369_ch1_03
+    video_name: R_369_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000369/ch1_video_03.mp4
+  patient_no: R_369
+  patient_video:
+  - R_369_ch1_01
+  - R_369_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_378_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_378/01_G_01_R_378_ch1_01
+    video_name: R_378_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000378/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_378_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_378/01_G_01_R_378_ch1_03
+    video_name: R_378_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000378/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_378_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_378/01_G_01_R_378_ch1_05
+    video_name: R_378_ch1_05
+    video_path: /data2/Video/Robot/Dataset2_60case/R000378/ch1_video_05.mp4
+  patient_no: R_378
+  patient_video:
+  - R_378_ch1_01
+  - R_378_ch1_03
+  - R_378_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_403_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_403/01_G_01_R_403_ch1_01
+    video_name: R_403_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000403/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_403_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_403/01_G_01_R_403_ch1_03
+    video_name: R_403_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000403/ch1_video_03.mp4
+  patient_no: R_403
+  patient_video:
+  - R_403_ch1_01
+  - R_403_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_406_ch1_02_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_406/01_G_01_R_406_ch1_02
+    video_name: R_406_ch1_02
+    video_path: /data2/Video/Robot/Dataset2_60case/R000406/ch1_video_02.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_406_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_406/01_G_01_R_406_ch1_04
+    video_name: R_406_ch1_04
+    video_path: /data2/Video/Robot/Dataset2_60case/R000406/ch1_video_04.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_406_ch1_06_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_406/01_G_01_R_406_ch1_06
+    video_name: R_406_ch1_06
+    video_path: /data2/Video/Robot/Dataset2_60case/R000406/ch1_video_06.mp4
+  patient_no: R_406
+  patient_video:
+  - R_406_ch1_02
+  - R_406_ch1_04
+  - R_406_ch1_06
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_419_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_419/01_G_01_R_419_ch1_01
+    video_name: R_419_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000419/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_419_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_419/01_G_01_R_419_ch1_04
+    video_name: R_419_ch1_04
+    video_path: /data2/Video/Robot/Dataset2_60case/R000419/ch1_video_04.mp4
+  patient_no: R_419
+  patient_video:
+  - R_419_ch1_01
+  - R_419_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_449_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_449/01_G_01_R_449_ch1_01
+    video_name: R_449_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000449/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_449_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_449/01_G_01_R_449_ch1_04
+    video_name: R_449_ch1_04
+    video_path: /data2/Video/Robot/Dataset2_60case/R000449/ch1_video_04.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_449_ch1_06_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_449/01_G_01_R_449_ch1_06
+    video_name: R_449_ch1_06
+    video_path: /data2/Video/Robot/Dataset2_60case/R000449/ch1_video_06.mp4
+  patient_no: R_449
+  patient_video:
+  - R_449_ch1_01
+  - R_449_ch1_04
+  - R_449_ch1_06
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_480_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_480/01_G_01_R_480_ch1_01
+    video_name: R_480_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000480/ch1_video_01.mp4
+  patient_no: R_480
+  patient_video:
+  - R_480_ch1_01
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_5_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_5/01_G_01_R_5_ch1_01
+    video_name: R_5_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000005/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_5_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_5/01_G_01_R_5_ch1_03
+    video_name: R_5_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000005/ch1_video_03.mp4
+  patient_no: R_5
+  patient_video:
+  - R_5_ch1_01
+  - R_5_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_10_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_10/01_G_01_R_10_ch1_01
+    video_name: R_10_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000010/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_10_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_10/01_G_01_R_10_ch1_03
+    video_name: R_10_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000010/ch1_video_03.mp4
+  patient_no: R_10
+  patient_video:
+  - R_10_ch1_01
+  - R_10_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_19_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_19/01_G_01_R_19_ch1_01
+    video_name: R_19_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000019/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_19_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_19/01_G_01_R_19_ch1_03
+    video_name: R_19_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000019/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_19_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_19/01_G_01_R_19_ch1_05
+    video_name: R_19_ch1_05
+    video_path: /data1/HuToM/Video_Robot_cordname/R000019/ch1_video_05.mp4
+  patient_no: R_19
+  patient_video:
+  - R_19_ch1_01
+  - R_19_ch1_03
+  - R_19_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_48_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_48/01_G_01_R_48_ch1_01
+    video_name: R_48_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000048/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_48_ch1_02_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_48/01_G_01_R_48_ch1_02
+    video_name: R_48_ch1_02
+    video_path: /data1/HuToM/Video_Robot_cordname/R000048/ch1_video_02.mp4
+  patient_no: R_48
+  patient_video:
+  - R_48_ch1_01
+  - R_48_ch1_02
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_204_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_204/01_G_01_R_204_ch1_01
+    video_name: R_204_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000204/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_204_ch1_02_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_204/01_G_01_R_204_ch1_02
+    video_name: R_204_ch1_02
+    video_path: /data1/HuToM/Video_Robot_cordname/R000204/ch1_video_02.mp4
+  patient_no: R_204
+  patient_video:
+  - R_204_ch1_01
+  - R_204_ch1_02
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_310_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_310/01_G_01_R_310_ch1_01
+    video_name: R_310_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000310/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_310_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_310/01_G_01_R_310_ch1_03
+    video_name: R_310_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000310/ch1_video_03.mp4
+  patient_no: R_310
+  patient_video:
+  - R_310_ch1_01
+  - R_310_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_340_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_340/01_G_01_R_340_ch1_01
+    video_name: R_340_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000340/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_340_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_340/01_G_01_R_340_ch1_03
+    video_name: R_340_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000340/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_340_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_340/01_G_01_R_340_ch1_05
+    video_name: R_340_ch1_05
+    video_path: /data2/Video/Robot/Dataset2_60case/R000340/ch1_video_05.mp4
+  patient_no: R_340
+  patient_video:
+  - R_340_ch1_01
+  - R_340_ch1_03
+  - R_340_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_342_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_342/01_G_01_R_342_ch1_01
+    video_name: R_342_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000342/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_342_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_342/01_G_01_R_342_ch1_03
+    video_name: R_342_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000342/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_342_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_342/01_G_01_R_342_ch1_05
+    video_name: R_342_ch1_05
+    video_path: /data2/Video/Robot/Dataset2_60case/R000342/ch1_video_05.mp4
+  patient_no: R_342
+  patient_video:
+  - R_342_ch1_01
+  - R_342_ch1_03
+  - R_342_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_348_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_348/01_G_01_R_348_ch1_01
+    video_name: R_348_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000348/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_348_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_348/01_G_01_R_348_ch1_03
+    video_name: R_348_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000348/ch1_video_03.mp4
+  patient_no: R_348
+  patient_video:
+  - R_348_ch1_01
+  - R_348_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_358_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_358/01_G_01_R_358_ch1_01
+    video_name: R_358_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000358/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_358_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_358/01_G_01_R_358_ch1_03
+    video_name: R_358_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000358/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_358_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_358/01_G_01_R_358_ch1_05
+    video_name: R_358_ch1_05
+    video_path: /data2/Video/Robot/Dataset2_60case/R000358/ch1_video_05.mp4
+  patient_no: R_358
+  patient_video:
+  - R_358_ch1_01
+  - R_358_ch1_03
+  - R_358_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_379_ch1_02_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_379/01_G_01_R_379_ch1_02
+    video_name: R_379_ch1_02
+    video_path: /data2/Video/Robot/Dataset2_60case/R000379/ch1_video_02.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_379_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_379/01_G_01_R_379_ch1_04
+    video_name: R_379_ch1_04
+    video_path: /data2/Video/Robot/Dataset2_60case/R000379/ch1_video_04.mp4
+  patient_no: R_379
+  patient_video:
+  - R_379_ch1_02
+  - R_379_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_393_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_393/01_G_01_R_393_ch1_01
+    video_name: R_393_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000393/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_393_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_393/01_G_01_R_393_ch1_04
+    video_name: R_393_ch1_04
+    video_path: /data2/Video/Robot/Dataset2_60case/R000393/ch1_video_04.mp4
+  patient_no: R_393
+  patient_video:
+  - R_393_ch1_01
+  - R_393_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_400_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_400/01_G_01_R_400_ch1_01
+    video_name: R_400_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000400/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_400_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_400/01_G_01_R_400_ch1_03
+    video_name: R_400_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000400/ch1_video_03.mp4
+  patient_no: R_400
+  patient_video:
+  - R_400_ch1_01
+  - R_400_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_413_ch1_02_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_413/01_G_01_R_413_ch1_02
+    video_name: R_413_ch1_02
+    video_path: /data2/Video/Robot/Dataset2_60case/R000413/ch1_video_02.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_413_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_413/01_G_01_R_413_ch1_04
+    video_name: R_413_ch1_04
+    video_path: /data2/Video/Robot/Dataset2_60case/R000413/ch1_video_04.mp4
+  patient_no: R_413
+  patient_video:
+  - R_413_ch1_02
+  - R_413_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_415_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_415/01_G_01_R_415_ch1_01
+    video_name: R_415_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000415/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_415_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_415/01_G_01_R_415_ch1_03
+    video_name: R_415_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000415/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_415_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_415/01_G_01_R_415_ch1_05
+    video_name: R_415_ch1_05
+    video_path: /data2/Video/Robot/Dataset2_60case/R000415/ch1_video_05.mp4
+  patient_no: R_415
+  patient_video:
+  - R_415_ch1_01
+  - R_415_ch1_03
+  - R_415_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_420_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_420/01_G_01_R_420_ch1_01
+    video_name: R_420_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000420/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_420_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_420/01_G_01_R_420_ch1_03
+    video_name: R_420_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000420/ch1_video_03.mp4
+  patient_no: R_420
+  patient_video:
+  - R_420_ch1_01
+  - R_420_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_436_ch1_02_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_436/01_G_01_R_436_ch1_02
+    video_name: R_436_ch1_02
+    video_path: /data2/Video/Robot/Dataset2_60case/R000436/ch1_video_02.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_436_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_436/01_G_01_R_436_ch1_04
+    video_name: R_436_ch1_04
+    video_path: /data2/Video/Robot/Dataset2_60case/R000436/ch1_video_04.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_436_ch1_06_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_436/01_G_01_R_436_ch1_06
+    video_name: R_436_ch1_06
+    video_path: /data2/Video/Robot/Dataset2_60case/R000436/ch1_video_06.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_436_ch1_08_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_436/01_G_01_R_436_ch1_08
+    video_name: R_436_ch1_08
+    video_path: /data2/Video/Robot/Dataset2_60case/R000436/ch1_video_08.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_436_ch1_10_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_436/01_G_01_R_436_ch1_10
+    video_name: R_436_ch1_10
+    video_path: /data2/Video/Robot/Dataset2_60case/R000436/ch1_video_10.mp4
+  patient_no: R_436
+  patient_video:
+  - R_436_ch1_02
+  - R_436_ch1_04
+  - R_436_ch1_06
+  - R_436_ch1_08
+  - R_436_ch1_10
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_445_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_445/01_G_01_R_445_ch1_01
+    video_name: R_445_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000445/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_445_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_445/01_G_01_R_445_ch1_03
+    video_name: R_445_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000445/ch1_video_03.mp4
+  patient_no: R_445
+  patient_video:
+  - R_445_ch1_01
+  - R_445_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_455_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_455/01_G_01_R_455_ch1_01
+    video_name: R_455_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000455/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_455_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_455/01_G_01_R_455_ch1_03
+    video_name: R_455_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000455/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_455_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_455/01_G_01_R_455_ch1_05
+    video_name: R_455_ch1_05
+    video_path: /data2/Video/Robot/Dataset2_60case/R000455/ch1_video_05.mp4
+  patient_no: R_455
+  patient_video:
+  - R_455_ch1_01
+  - R_455_ch1_03
+  - R_455_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_501_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_501/01_G_01_R_501_ch1_01
+    video_name: R_501_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000501/ch1_video_01.mp4
+  patient_no: R_501
+  patient_video:
+  - R_501_ch1_01
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_3_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_3/01_G_01_R_3_ch1_01
+    video_name: R_3_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000003/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_3_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_3/01_G_01_R_3_ch1_03
+    video_name: R_3_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000003/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_3_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_3/01_G_01_R_3_ch1_05
+    video_name: R_3_ch1_05
+    video_path: /data1/HuToM/Video_Robot_cordname/R000003/ch1_video_05.mp4
+  patient_no: R_3
+  patient_video:
+  - R_3_ch1_01
+  - R_3_ch1_03
+  - R_3_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_14_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_14/01_G_01_R_14_ch1_01
+    video_name: R_14_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000014/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_14_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_14/01_G_01_R_14_ch1_03
+    video_name: R_14_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000014/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_14_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_14/01_G_01_R_14_ch1_05
+    video_name: R_14_ch1_05
+    video_path: /data1/HuToM/Video_Robot_cordname/R000014/ch1_video_05.mp4
+  patient_no: R_14
+  patient_video:
+  - R_14_ch1_01
+  - R_14_ch1_03
+  - R_14_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_15_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_15/01_G_01_R_15_ch1_01
+    video_name: R_15_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000015/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_15_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_15/01_G_01_R_15_ch1_03
+    video_name: R_15_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000015/ch1_video_03.mp4
+  patient_no: R_15
+  patient_video:
+  - R_15_ch1_01
+  - R_15_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_117_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_117/01_G_01_R_117_ch1_01
+    video_name: R_117_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000117/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_117_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_117/01_G_01_R_117_ch1_03
+    video_name: R_117_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000117/ch1_video_03.mp4
+  patient_no: R_117
+  patient_video:
+  - R_117_ch1_01
+  - R_117_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_201_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_201/01_G_01_R_201_ch1_01
+    video_name: R_201_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000201/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_201_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_201/01_G_01_R_201_ch1_03
+    video_name: R_201_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000201/ch1_video_03.mp4
+  patient_no: R_201
+  patient_video:
+  - R_201_ch1_01
+  - R_201_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_205_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_205/01_G_01_R_205_ch1_01
+    video_name: R_205_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000205/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_205_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_205/01_G_01_R_205_ch1_03
+    video_name: R_205_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000205/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_205_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_205/01_G_01_R_205_ch1_05
+    video_name: R_205_ch1_05
+    video_path: /data1/HuToM/Video_Robot_cordname/R000205/ch1_video_05.mp4
+  patient_no: R_205
+  patient_video:
+  - R_205_ch1_01
+  - R_205_ch1_03
+  - R_205_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_207_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_207/01_G_01_R_207_ch1_01
+    video_name: R_207_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000207/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_207_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_207/01_G_01_R_207_ch1_03
+    video_name: R_207_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000207/ch1_video_03.mp4
+  patient_no: R_207
+  patient_video:
+  - R_207_ch1_01
+  - R_207_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_304_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_304/01_G_01_R_304_ch1_01
+    video_name: R_304_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000304/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_304_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_304/01_G_01_R_304_ch1_03
+    video_name: R_304_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000304/ch1_video_03.mp4
+  patient_no: R_304
+  patient_video:
+  - R_304_ch1_01
+  - R_304_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_324_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_324/01_G_01_R_324_ch1_01
+    video_name: R_324_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000324/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_324_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_324/01_G_01_R_324_ch1_03
+    video_name: R_324_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000324/ch1_video_03.mp4
+  patient_no: R_324
+  patient_video:
+  - R_324_ch1_01
+  - R_324_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_329_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_329/01_G_01_R_329_ch1_01
+    video_name: R_329_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000329/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_329_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_329/01_G_01_R_329_ch1_03
+    video_name: R_329_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000329/ch1_video_03.mp4
+  patient_no: R_329
+  patient_video:
+  - R_329_ch1_01
+  - R_329_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_334_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_334/01_G_01_R_334_ch1_01
+    video_name: R_334_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000334/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_334_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_334/01_G_01_R_334_ch1_03
+    video_name: R_334_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000334/ch1_video_03.mp4
+  patient_no: R_334
+  patient_video:
+  - R_334_ch1_01
+  - R_334_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_339_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_339/01_G_01_R_339_ch1_01
+    video_name: R_339_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000339/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_339_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_339/01_G_01_R_339_ch1_03
+    video_name: R_339_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000339/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_339_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_339/01_G_01_R_339_ch1_05
+    video_name: R_339_ch1_05
+    video_path: /data2/Video/Robot/Dataset2_60case/R000339/ch1_video_05.mp4
+  patient_no: R_339
+  patient_video:
+  - R_339_ch1_01
+  - R_339_ch1_03
+  - R_339_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_346_ch1_02_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_346/01_G_01_R_346_ch1_02
+    video_name: R_346_ch1_02
+    video_path: /data2/Video/Robot/Dataset2_60case/R000346/ch1_video_02.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_346_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_346/01_G_01_R_346_ch1_04
+    video_name: R_346_ch1_04
+    video_path: /data2/Video/Robot/Dataset2_60case/R000346/ch1_video_04.mp4
+  patient_no: R_346
+  patient_video:
+  - R_346_ch1_02
+  - R_346_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_376_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_376/01_G_01_R_376_ch1_01
+    video_name: R_376_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000376/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_376_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_376/01_G_01_R_376_ch1_03
+    video_name: R_376_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000376/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_376_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_376/01_G_01_R_376_ch1_05
+    video_name: R_376_ch1_05
+    video_path: /data2/Video/Robot/Dataset2_60case/R000376/ch1_video_05.mp4
+  patient_no: R_376
+  patient_video:
+  - R_376_ch1_01
+  - R_376_ch1_03
+  - R_376_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_391_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_391/01_G_01_R_391_ch1_01
+    video_name: R_391_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000391/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_391_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_391/01_G_01_R_391_ch1_03
+    video_name: R_391_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000391/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_391_ch2_06_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_391/01_G_01_R_391_ch2_06
+    video_name: R_391_ch2_06
+    video_path: /data2/Video/Robot/Dataset2_60case/R000391/01_G_01_R_391_ch2_06.mp4
+  patient_no: R_391
+  patient_video:
+  - R_391_ch1_01
+  - R_391_ch1_03
+  - R_391_ch2_06
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_402_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_402/01_G_01_R_402_ch1_01
+    video_name: R_402_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000402/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_402_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_402/01_G_01_R_402_ch1_03
+    video_name: R_402_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000402/ch1_video_03.mp4
+  patient_no: R_402
+  patient_video:
+  - R_402_ch1_01
+  - R_402_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_427_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_427/01_G_01_R_427_ch1_01
+    video_name: R_427_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000427/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_427_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_427/01_G_01_R_427_ch1_03
+    video_name: R_427_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000427/ch1_video_03.mp4
+  patient_no: R_427
+  patient_video:
+  - R_427_ch1_01
+  - R_427_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_522_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_522/01_G_01_R_522_ch1_01
+    video_name: R_522_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000522/ch1_video_01.mp4
+  patient_no: R_522
+  patient_video:
+  - R_522_ch1_01
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_532_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_532/01_G_01_R_532_ch1_01
+    video_name: R_532_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000532/ch1_video_01.mp4
+  patient_no: R_532
+  patient_video:
+  - R_532_ch1_01
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_533_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_533/01_G_01_R_533_ch1_01
+    video_name: R_533_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000533/ch1_video_01.mp4
+  patient_no: R_533
+  patient_video:
+  - R_533_ch1_01
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_4_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_4/01_G_01_R_4_ch1_01
+    video_name: R_4_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000004/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_4_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_4/01_G_01_R_4_ch1_04
+    video_name: R_4_ch1_04
+    video_path: /data1/HuToM/Video_Robot_cordname/R000004/ch1_video_04.mp4
+  patient_no: R_4
+  patient_video:
+  - R_4_ch1_01
+  - R_4_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_7_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_7/01_G_01_R_7_ch1_01
+    video_name: R_7_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000007/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_7_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_7/01_G_01_R_7_ch1_04
+    video_name: R_7_ch1_04
+    video_path: /data1/HuToM/Video_Robot_cordname/R000007/ch1_video_04.mp4
+  patient_no: R_7
+  patient_video:
+  - R_7_ch1_01
+  - R_7_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_18_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_18/01_G_01_R_18_ch1_01
+    video_name: R_18_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000018/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_18_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_18/01_G_01_R_18_ch1_04
+    video_name: R_18_ch1_04
+    video_path: /data1/HuToM/Video_Robot_cordname/R000018/ch1_video_04.mp4
+  patient_no: R_18
+  patient_video:
+  - R_18_ch1_01
+  - R_18_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_76_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_76/01_G_01_R_76_ch1_01
+    video_name: R_76_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000076/ch1_video_01_6915320_RDG.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_76_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_76/01_G_01_R_76_ch1_03
+    video_name: R_76_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000076/ch1_video_03.mp4
+  patient_no: R_76
+  patient_video:
+  - R_76_ch1_01
+  - R_76_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_84_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_84/01_G_01_R_84_ch1_01
+    video_name: R_84_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000084/ch1_video_01_8459178_robotic\
+      subtotal.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_84_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_84/01_G_01_R_84_ch1_03
+    video_name: R_84_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000084/ch1_video_03.mp4
+  patient_no: R_84
+  patient_video:
+  - R_84_ch1_01
+  - R_84_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_94_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_94/01_G_01_R_94_ch1_01
+    video_name: R_94_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000094/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_94_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_94/01_G_01_R_94_ch1_03
+    video_name: R_94_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000094/ch1_video_03.mp4
+  patient_no: R_94
+  patient_video:
+  - R_94_ch1_01
+  - R_94_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_203_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_203/01_G_01_R_203_ch1_01
+    video_name: R_203_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000203/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_203_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_203/01_G_01_R_203_ch1_03
+    video_name: R_203_ch1_03
+    video_path: /data1/HuToM/Video_Robot_cordname/R000203/ch1_video_03.mp4
+  patient_no: R_203
+  patient_video:
+  - R_203_ch1_01
+  - R_203_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_210_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_210/01_G_01_R_210_ch1_01
+    video_name: R_210_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000210/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_210_ch2_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_210/01_G_01_R_210_ch2_04
+    video_name: R_210_ch2_04
+    video_path: /data1/HuToM/Video_Robot_cordname/R000210/ch2_video_04.mp4
+  patient_no: R_210
+  patient_video:
+  - R_210_ch1_01
+  - R_210_ch2_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_305_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_305/01_G_01_R_305_ch1_01
+    video_name: R_305_ch1_01
+    video_path: /data1/HuToM/Video_Robot_cordname/R000305/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_305_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_305/01_G_01_R_305_ch1_04
+    video_name: R_305_ch1_04
+    video_path: /data1/HuToM/Video_Robot_cordname/R000305/ch1_video_04.mp4
+  patient_no: R_305
+  patient_video:
+  - R_305_ch1_01
+  - R_305_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_320_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_320/01_G_01_R_320_ch1_01
+    video_name: R_320_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000320/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_320_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_320/01_G_01_R_320_ch1_03
+    video_name: R_320_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000320/ch1_video_03.mp4
+  patient_no: R_320
+  patient_video:
+  - R_320_ch1_01
+  - R_320_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_347_ch1_02_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_347/01_G_01_R_347_ch1_02
+    video_name: R_347_ch1_02
+    video_path: /data2/Video/Robot/Dataset2_60case/R000347/ch1_video_02.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_347_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_347/01_G_01_R_347_ch1_03
+    video_name: R_347_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000347/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_347_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_347/01_G_01_R_347_ch1_05
+    video_name: R_347_ch1_05
+    video_path: /data2/Video/Robot/Dataset2_60case/R000347/ch1_video_05.mp4
+  patient_no: R_347
+  patient_video:
+  - R_347_ch1_02
+  - R_347_ch1_03
+  - R_347_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_355_ch1_02_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_355/01_G_01_R_355_ch1_02
+    video_name: R_355_ch1_02
+    video_path: /data2/Video/Robot/Dataset2_60case/R000355/ch1_video_02.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_355_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_355/01_G_01_R_355_ch1_04
+    video_name: R_355_ch1_04
+    video_path: /data2/Video/Robot/Dataset2_60case/R000355/ch1_video_04.mp4
+  patient_no: R_355
+  patient_video:
+  - R_355_ch1_02
+  - R_355_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_357_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_357/01_G_01_R_357_ch1_01
+    video_name: R_357_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000357/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_357_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_357/01_G_01_R_357_ch1_03
+    video_name: R_357_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000357/ch1_video_03.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_357_ch1_05_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_357/01_G_01_R_357_ch1_05
+    video_name: R_357_ch1_05
+    video_path: /data2/Video/Robot/Dataset2_60case/R000357/ch1_video_05.mp4
+  patient_no: R_357
+  patient_video:
+  - R_357_ch1_01
+  - R_357_ch1_03
+  - R_357_ch1_05
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_372_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_372/01_G_01_R_372_ch1_01
+    video_name: R_372_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000372/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_372_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_372/01_G_01_R_372_ch1_04
+    video_name: R_372_ch1_04
+    video_path: /data2/Video/Robot/Dataset2_60case/R000372/ch1_video_04.mp4
+  patient_no: R_372
+  patient_video:
+  - R_372_ch1_01
+  - R_372_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_399_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_399/01_G_01_R_399_ch1_01
+    video_name: R_399_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000399/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_399_ch1_04_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_399/01_G_01_R_399_ch1_04
+    video_name: R_399_ch1_04
+    video_path: /data2/Video/Robot/Dataset2_60case/R000399/ch1_video_04.mp4
+  patient_no: R_399
+  patient_video:
+  - R_399_ch1_01
+  - R_399_ch1_04
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_409_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_409/01_G_01_R_409_ch1_01
+    video_name: R_409_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000409/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_409_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_409/01_G_01_R_409_ch1_03
+    video_name: R_409_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000409/ch1_video_03.mp4
+  patient_no: R_409
+  patient_video:
+  - R_409_ch1_01
+  - R_409_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_412_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_412/01_G_01_R_412_ch1_01
+    video_name: R_412_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000412/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_412_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_412/01_G_01_R_412_ch1_03
+    video_name: R_412_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000412/ch1_video_03.mp4
+  patient_no: R_412
+  patient_video:
+  - R_412_ch1_01
+  - R_412_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_493_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_493/01_G_01_R_493_ch1_01
+    video_name: R_493_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000493/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_493_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_493/01_G_01_R_493_ch1_03
+    video_name: R_493_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000493/ch1_video_03.mp4
+  patient_no: R_493
+  patient_video:
+  - R_493_ch1_01
+  - R_493_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_510_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_510/01_G_01_R_510_ch1_01
+    video_name: R_510_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000510/ch1_video_01.mp4
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_510_ch1_03_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_510/01_G_01_R_510_ch1_03
+    video_name: R_510_ch1_03
+    video_path: /data2/Video/Robot/Dataset2_60case/R000510/ch1_video_03.mp4
+  patient_no: R_510
+  patient_video:
+  - R_510_ch1_01
+  - R_510_ch1_03
+- path_info:
+  - annotation_path: /data2/Public/IDC_21.06.25/ANNOTATION/Gastrectomy/Event/OOB/V3/TBE/01_G_01_R_523_ch1_01_TBE_30.json
+    db_path: /raid/img_db/ROBOT/R_523/01_G_01_R_523_ch1_01
+    video_name: R_523_ch1_01
+    video_path: /data2/Video/Robot/Dataset2_60case/R000523/ch1_video_01.mp4
+  patient_no: R_523
+  patient_video:
+  - R_523_ch1_01

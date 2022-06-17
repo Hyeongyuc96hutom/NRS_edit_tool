@@ -1,0 +1,14 @@
+/model_ckpt
+/logs_sota
+/logs*
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# inference csv
+/mobilenet-set*
+
+# .out
+*.out

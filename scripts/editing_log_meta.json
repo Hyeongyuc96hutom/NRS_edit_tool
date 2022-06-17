@@ -1,0 +1,512 @@
+{
+  "01_G_01_R_2_ch1_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_2/01_G_01_R_2_ch1_01.mp4",
+    "frame_cnt": 136952,
+    "date": "2022-01-12 01:25:09.815316"
+  },
+  "01_G_01_R_2_ch1_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_2/01_G_01_R_2_ch1_03.mp4",
+    "frame_cnt": 80290,
+    "date": "2022-01-12 03:41:24.689649"
+  },
+  "01_G_01_R_6_ch1_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_6/01_G_01_R_6_ch1_01.mp4",
+    "frame_cnt": 137670,
+    "date": "2022-01-12 04:26:31.932667"
+  },
+  "01_G_01_R_6_ch1_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_6/01_G_01_R_6_ch1_03.mp4",
+    "frame_cnt": 137669,
+    "date": "2022-01-12 04:42:04.467689"
+  },
+  "01_G_01_R_6_ch1_05.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_6/01_G_01_R_6_ch1_05.mp4",
+    "frame_cnt": 64185,
+    "date": "2022-01-12 04:49:40.136011"
+  },
+  "01_G_01_R_13_ch1_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_13/01_G_01_R_13_ch1_01.mp4",
+    "frame_cnt": 137397,
+    "date": "2022-01-12 05:03:59.978808"
+  },
+  "01_G_01_R_13_ch1_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_13/01_G_01_R_13_ch1_03.mp4",
+    "frame_cnt": 113447,
+    "date": "2022-01-12 05:16:55.424563"
+  },
+  "01_G_01_R_74_ch1_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_74/01_G_01_R_74_ch1_01.mp4",
+    "frame_cnt": 137879,
+    "date": "2022-01-12 05:32:46.271373"
+  },
+  "01_G_01_R_74_ch1_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_74/01_G_01_R_74_ch1_03.mp4",
+    "frame_cnt": 127144,
+    "date": "2022-01-12 05:46:45.496379"
+  },
+  "01_G_01_R_100_ch1_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_100/01_G_01_R_100_ch1_01.mp4",
+    "frame_cnt": 137424,
+    "date": "2022-01-12 06:01:52.825162"
+  },
+  "01_G_01_R_100_ch1_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_100/01_G_01_R_100_ch1_03.mp4",
+    "frame_cnt": 136363,
+    "date": "2022-01-12 06:17:05.775756"
+  },
+  "01_G_01_R_100_ch1_05.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_100/01_G_01_R_100_ch1_05.mp4",
+    "frame_cnt": 37232,
+    "date": "2022-01-12 06:21:37.868865"
+  },
+  "01_G_01_R_202_ch1_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_202/01_G_01_R_202_ch1_01.mp4",
+    "frame_cnt": 137407,
+    "date": "2022-01-12 06:36:04.259153"
+  },
+  "01_G_01_R_202_ch1_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_202/01_G_01_R_202_ch1_03.mp4",
+    "frame_cnt": 137572,
+    "date": "2022-01-12 06:51:47.189060"
+  },
+  "01_G_01_R_202_ch1_05.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_202/01_G_01_R_202_ch1_05.mp4",
+    "frame_cnt": 105479,
+    "date": "2022-01-12 07:04:05.138207"
+  },
+  "01_G_01_R_301_ch1_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_301/01_G_01_R_301_ch1_01.mp4",
+    "frame_cnt": 137397,
+    "date": "2022-01-12 07:19:18.437600"
+  },
+  "01_G_01_R_301_ch1_04.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_301/01_G_01_R_301_ch1_04.mp4",
+    "frame_cnt": 75144,
+    "date": "2022-01-12 07:27:56.945184"
+  },
+  "01_G_01_R_302_ch1_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_302/01_G_01_R_302_ch1_01.mp4",
+    "frame_cnt": 137242,
+    "date": "2022-01-12 07:42:48.674090"
+  },
+  "01_G_01_R_302_ch1_04.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_302/01_G_01_R_302_ch1_04.mp4",
+    "frame_cnt": 54786,
+    "date": "2022-01-12 07:50:09.704112"
+  },
+  "01_G_01_R_311_ch1_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_311/01_G_01_R_311_ch1_01.mp4",
+    "frame_cnt": 137312,
+    "date": "2022-01-12 08:05:53.379805"
+  },
+  "01_G_01_R_311_ch1_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_311/01_G_01_R_311_ch1_03.mp4",
+    "frame_cnt": 75145,
+    "date": "2022-01-12 08:14:17.254504"
+  },
+  "01_G_01_R_312_ch1_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_312/01_G_01_R_312_ch1_02.mp4",
+    "frame_cnt": 137359,
+    "date": "2022-01-12 08:29:04.619523"
+  },
+  "01_G_01_R_312_ch1_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_312/01_G_01_R_312_ch1_03.mp4",
+    "frame_cnt": 89084,
+    "date": "2022-01-12 08:39:24.289236"
+  },
+  "01_G_01_R_313_ch1_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_313/01_G_01_R_313_ch1_01.mp4",
+    "frame_cnt": 137227,
+    "date": "2022-01-12 08:56:08.426270"
+  },
+  "01_G_01_R_313_ch1_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_313/01_G_01_R_313_ch1_03.mp4",
+    "frame_cnt": 93620,
+    "date": "2022-01-12 09:07:36.248111"
+  },
+  "01_G_01_R_336_ch1_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_336/01_G_01_R_336_ch1_01.mp4",
+    "frame_cnt": 137533,
+    "date": "2022-01-12 09:40:37.900209"
+  },
+  "01_G_01_R_336_ch1_04.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_336/01_G_01_R_336_ch1_04.mp4",
+    "frame_cnt": 47920,
+    "date": "2022-01-12 09:51:22.148699"
+  },
+  "01_G_01_R_362_ch1_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_362/01_G_01_R_362_ch1_01.mp4",
+    "frame_cnt": 137166,
+    "date": "2022-01-12 10:12:41.180691"
+  },
+  "01_G_01_R_362_ch1_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_362/01_G_01_R_362_ch1_03.mp4",
+    "frame_cnt": 137257,
+    "date": "2022-01-12 10:36:06.520415"
+  },
+  "01_G_01_R_362_ch1_05.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_362/01_G_01_R_362_ch1_05.mp4",
+    "frame_cnt": 102563,
+    "date": "2022-01-12 10:53:41.853482"
+  },
+  "01_G_01_R_363_ch1_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_363/01_G_01_R_363_ch1_01.mp4",
+    "frame_cnt": 137401,
+    "date": "2022-01-12 11:16:02.473973"
+  },
+  "01_G_01_R_363_ch1_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_363/01_G_01_R_363_ch1_03.mp4",
+    "frame_cnt": 73437,
+    "date": "2022-01-12 11:30:22.399909"
+  },
+  "01_G_01_R_386_ch1_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_386/01_G_01_R_386_ch1_01.mp4",
+    "frame_cnt": 137246,
+    "date": "2022-01-12 11:50:48.031260"
+  },
+  "01_G_01_R_386_ch1_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_386/01_G_01_R_386_ch1_03.mp4",
+    "frame_cnt": 84599,
+    "date": "2022-01-12 12:07:45.947761"
+  },
+  "01_G_01_R_405_ch1_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_405/01_G_01_R_405_ch1_01.mp4",
+    "frame_cnt": 137180,
+    "date": "2022-01-12 12:56:15.786523"
+  },
+  "01_G_01_R_405_ch1_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_405/01_G_01_R_405_ch1_03.mp4",
+    "frame_cnt": 137366,
+    "date": "2022-01-12 13:40:09.342807"
+  },
+  "01_G_01_R_405_ch1_05.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_405/01_G_01_R_405_ch1_05.mp4",
+    "frame_cnt": 126768,
+    "date": "2022-01-12 14:20:24.535894"
+  },
+  "01_G_01_R_418_ch1_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_418/01_G_01_R_418_ch1_02.mp4",
+    "frame_cnt": 137517,
+    "date": "2022-01-12 15:04:07.557449"
+  },
+  "01_G_01_R_418_ch1_04.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_418/01_G_01_R_418_ch1_04.mp4",
+    "frame_cnt": 137548,
+    "date": "2022-01-12 15:41:14.927404"
+  },
+  "01_G_01_R_418_ch1_06.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_418/01_G_01_R_418_ch1_06.mp4",
+    "frame_cnt": 48949,
+    "date": "2022-01-12 15:56:30.273046"
+  },
+  "01_G_01_R_423_ch1_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_423/01_G_01_R_423_ch1_01.mp4",
+    "frame_cnt": 137467,
+    "date": "2022-01-12 16:27:03.495581"
+  },
+  "01_G_01_R_423_ch1_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_423/01_G_01_R_423_ch1_03.mp4",
+    "frame_cnt": 92579,
+    "date": "2022-01-12 16:56:01.998836"
+  },
+  "01_G_01_R_424_ch2_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_424/01_G_01_R_424_ch2_02.mp4",
+    "frame_cnt": 137145,
+    "date": "2022-01-12 17:36:22.899098"
+  },
+  "01_G_01_R_424_ch2_04.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_424/01_G_01_R_424_ch2_04.mp4",
+    "frame_cnt": 50189,
+    "date": "2022-01-12 17:55:24.490306"
+  },
+  "01_G_01_R_526_ch1_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/train_100/R_526/01_G_01_R_526_ch1_01.mp4",
+    "frame_cnt": 187763,
+    "date": "2022-01-12 18:47:51.552167"
+  },
+  "01_GS3_06_R_154_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_154/01_GS3_06_R_154_01.mp4",
+    "frame_cnt": 137832,
+    "date": "2022-01-12 19:28:35.110196"
+  },
+  "01_GS3_06_R_154_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_154/01_GS3_06_R_154_02.mp4",
+    "frame_cnt": 101242,
+    "date": "2022-01-12 19:52:54.734800"
+  },
+  "01_GS3_06_R_154_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_154/01_GS3_06_R_154_03.mp4",
+    "frame_cnt": 137438,
+    "date": "2022-01-12 20:22:39.569902"
+  },
+  "01_GS3_06_R_154_04.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_154/01_GS3_06_R_154_04.mp4",
+    "frame_cnt": 136854,
+    "date": "2022-01-12 21:19:21.440675"
+  },
+  "01_GS3_06_R_154_05.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_154/01_GS3_06_R_154_05.mp4",
+    "frame_cnt": 30138,
+    "date": "2022-01-12 21:27:51.136155"
+  },
+  "01_GS3_06_R_154_06.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_154/01_GS3_06_R_154_06.mp4",
+    "frame_cnt": 137832,
+    "date": "2022-01-12 21:54:13.259639"
+  },
+  "01_GS3_06_R_154_07.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_154/01_GS3_06_R_154_07.mp4",
+    "frame_cnt": 101239,
+    "date": "2022-01-12 22:06:15.357919"
+  },
+  "01_GS3_06_R_154_08.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_154/01_GS3_06_R_154_08.mp4",
+    "frame_cnt": 137438,
+    "date": "2022-01-12 22:22:45.664863"
+  },
+  "01_GS3_06_R_154_09.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_154/01_GS3_06_R_154_09.mp4",
+    "frame_cnt": 136848,
+    "date": "2022-01-12 22:39:22.523420"
+  },
+  "01_GS3_06_R_154_10.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_154/01_GS3_06_R_154_10.mp4",
+    "frame_cnt": 30138,
+    "date": "2022-01-12 22:43:34.101966"
+  },
+  "01_GS3_06_R_155_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_155/01_GS3_06_R_155_01.mp4",
+    "frame_cnt": 137447,
+    "date": "2022-01-12 22:58:40.670252"
+  },
+  "01_GS3_06_R_155_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_155/01_GS3_06_R_155_02.mp4",
+    "frame_cnt": 104370,
+    "date": "2022-01-12 23:10:14.189989"
+  },
+  "01_GS3_06_R_155_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_155/01_GS3_06_R_155_03.mp4",
+    "frame_cnt": 137447,
+    "date": "2022-01-12 23:25:44.499593"
+  },
+  "01_GS3_06_R_155_04.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_155/01_GS3_06_R_155_04.mp4",
+    "frame_cnt": 104374,
+    "date": "2022-01-12 23:38:21.875354"
+  },
+  "01_GS3_06_R_156_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_156/01_GS3_06_R_156_01.mp4",
+    "frame_cnt": 137472,
+    "date": "2022-01-12 23:53:23.537651"
+  },
+  "01_GS3_06_R_156_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_156/01_GS3_06_R_156_02.mp4",
+    "frame_cnt": 87823,
+    "date": "2022-01-13 00:03:44.598450"
+  },
+  "01_GS3_06_R_156_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_156/01_GS3_06_R_156_03.mp4",
+    "frame_cnt": 137472,
+    "date": "2022-01-13 00:20:01.710835"
+  },
+  "01_GS3_06_R_156_04.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_156/01_GS3_06_R_156_04.mp4",
+    "frame_cnt": 87823,
+    "date": "2022-01-13 00:30:43.603808"
+  },
+  "01_GS3_06_R_157_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_157/01_GS3_06_R_157_01.mp4",
+    "frame_cnt": 200576,
+    "date": "2022-01-13 00:51:34.043957"
+  },
+  "01_GS3_06_R_157_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_157/01_GS3_06_R_157_02.mp4",
+    "frame_cnt": 200576,
+    "date": "2022-01-13 01:13:29.322689"
+  },
+  "01_GS3_06_R_158_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_158/01_GS3_06_R_158_01.mp4",
+    "frame_cnt": 208726,
+    "date": "2022-01-13 01:36:57.217659"
+  },
+  "01_GS3_06_R_158_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_158/01_GS3_06_R_158_02.mp4",
+    "frame_cnt": 208726,
+    "date": "2022-01-13 02:01:24.324922"
+  },
+  "01_GS3_06_R_160_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_160/01_GS3_06_R_160_01.mp4",
+    "frame_cnt": 137472,
+    "date": "2022-01-13 02:18:07.332387"
+  },
+  "01_GS3_06_R_160_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_160/01_GS3_06_R_160_02.mp4",
+    "frame_cnt": 98967,
+    "date": "2022-01-13 02:29:12.738530"
+  },
+  "01_GS3_06_R_160_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_160/01_GS3_06_R_160_03.mp4",
+    "frame_cnt": 137472,
+    "date": "2022-01-13 02:45:32.093287"
+  },
+  "01_GS3_06_R_160_04.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_160/01_GS3_06_R_160_04.mp4",
+    "frame_cnt": 98967,
+    "date": "2022-01-13 02:56:38.475784"
+  },
+  "01_GS3_06_R_161_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_161/01_GS3_06_R_161_01.mp4",
+    "frame_cnt": 204992,
+    "date": "2022-01-13 03:19:07.696664"
+  },
+  "01_GS3_06_R_161_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_161/01_GS3_06_R_161_02.mp4",
+    "frame_cnt": 204992,
+    "date": "2022-01-13 03:44:05.890279"
+  },
+  "01_GS3_06_R_162_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_162/01_GS3_06_R_162_01.mp4",
+    "frame_cnt": 160954,
+    "date": "2022-01-13 04:03:25.212116"
+  },
+  "01_GS3_06_R_162_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_162/01_GS3_06_R_162_02.mp4",
+    "frame_cnt": 160954,
+    "date": "2022-01-13 04:21:57.846351"
+  },
+  "01_GS3_06_R_163_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_163/01_GS3_06_R_163_01.mp4",
+    "frame_cnt": 370041,
+    "date": "2022-01-13 05:02:57.574476"
+  },
+  "01_GS3_06_R_163_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_163/01_GS3_06_R_163_02.mp4",
+    "frame_cnt": 370041,
+    "date": "2022-01-13 05:44:03.302532"
+  },
+  "01_GS3_06_R_164_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_164/01_GS3_06_R_164_01.mp4",
+    "frame_cnt": 396673,
+    "date": "2022-01-13 06:32:30.716507"
+  },
+  "01_GS3_06_R_164_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_164/01_GS3_06_R_164_02.mp4",
+    "frame_cnt": 396670,
+    "date": "2022-01-13 07:16:41.351228"
+  },
+  "01_GS3_06_R_165_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_165/01_GS3_06_R_165_01.mp4",
+    "frame_cnt": 248148,
+    "date": "2022-01-13 07:45:36.323377"
+  },
+  "01_GS3_06_R_165_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_165/01_GS3_06_R_165_02.mp4",
+    "frame_cnt": 248148,
+    "date": "2022-01-13 08:13:10.156504"
+  },
+  "01_GS3_06_R_166_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_166/01_GS3_06_R_166_01.mp4",
+    "frame_cnt": 293438,
+    "date": "2022-01-13 08:45:38.574006"
+  },
+  "01_GS3_06_R_166_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_166/01_GS3_06_R_166_02.mp4",
+    "frame_cnt": 293438,
+    "date": "2022-01-13 09:51:59.431116"
+  },
+  "01_GS3_06_R_167_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_167/01_GS3_06_R_167_01.mp4",
+    "frame_cnt": 137666,
+    "date": "2022-01-13 10:17:02.691754"
+  },
+  "01_GS3_06_R_167_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_167/01_GS3_06_R_167_02.mp4",
+    "frame_cnt": 137957,
+    "date": "2022-01-13 10:37:40.122129"
+  },
+  "01_GS3_06_R_167_03.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_167/01_GS3_06_R_167_03.mp4",
+    "frame_cnt": 46686,
+    "date": "2022-01-13 10:46:09.438161"
+  },
+  "01_GS3_06_R_167_04.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_167/01_GS3_06_R_167_04.mp4",
+    "frame_cnt": 137666,
+    "date": "2022-01-13 11:05:05.012192"
+  },
+  "01_GS3_06_R_167_05.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_167/01_GS3_06_R_167_05.mp4",
+    "frame_cnt": 137957,
+    "date": "2022-01-13 11:25:48.866663"
+  },
+  "01_GS3_06_R_167_06.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_167/01_GS3_06_R_167_06.mp4",
+    "frame_cnt": 46686,
+    "date": "2022-01-13 11:33:54.290617"
+  },
+  "01_GS3_06_R_168_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_168/01_GS3_06_R_168_01.mp4",
+    "frame_cnt": 205119,
+    "date": "2022-01-13 12:00:59.208359"
+  },
+  "01_GS3_06_R_168_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_168/01_GS3_06_R_168_02.mp4",
+    "frame_cnt": 205119,
+    "date": "2022-01-13 12:36:42.814009"
+  },
+  "01_GS3_06_R_169_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_169/01_GS3_06_R_169_01.mp4",
+    "frame_cnt": 218407,
+    "date": "2022-01-13 13:29:49.321199"
+  },
+  "01_GS3_06_R_169_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_169/01_GS3_06_R_169_02.mp4",
+    "frame_cnt": 218404,
+    "date": "2022-01-13 14:29:12.967296"
+  },
+  "01_GS3_06_R_170_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_170/01_GS3_06_R_170_01.mp4",
+    "frame_cnt": 290607,
+    "date": "2022-01-13 15:40:13.744208"
+  },
+  "01_GS3_06_R_170_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_170/01_GS3_06_R_170_02.mp4",
+    "frame_cnt": 290607,
+    "date": "2022-01-13 16:49:06.546998"
+  },
+  "01_GS3_06_R_171_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_171/01_GS3_06_R_171_01.mp4",
+    "frame_cnt": 234970,
+    "date": "2022-01-13 17:39:49.811883"
+  },
+  "01_GS3_06_R_171_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_171/01_GS3_06_R_171_02.mp4",
+    "frame_cnt": 234970,
+    "date": "2022-01-13 18:08:40.723817"
+  },
+  "01_GS3_06_R_172_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_172/01_GS3_06_R_172_01.mp4",
+    "frame_cnt": 244910,
+    "date": "2022-01-13 18:52:10.254045"
+  },
+  "01_GS3_06_R_46_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_46/01_GS3_06_R_46_01.mp4",
+    "frame_cnt": 137429,
+    "date": "2022-01-13 20:29:35.269687"
+  },
+  "01_GS3_06_R_46_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_46/01_GS3_06_R_46_02.mp4",
+    "frame_cnt": 19838,
+    "date": "2022-01-13 20:37:52.019033"
+  },
+  "01_GS3_06_R_6_01.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_6/01_GS3_06_R_6_01.mp4",
+    "frame_cnt": 137289,
+    "date": "2022-01-13 21:05:35.641654"
+  },
+  "01_GS3_06_R_6_02.mp4": {
+    "video_path": "/data3/Public/ViHUB-pro/input_video/etc_20/R_6/01_GS3_06_R_6_02.mp4",
+    "frame_cnt": 47841,
+    "date": "2022-01-13 21:20:33.461846"
+  }
+}
